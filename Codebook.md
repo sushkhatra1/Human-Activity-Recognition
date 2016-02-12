@@ -1,4 +1,4 @@
-	                                    ##  COURSERA/GETTING AND CLEANING DATA/4TH-LAST WEEK PROJECT
+#  COURSERA/GETTING AND CLEANING DATA/4TH-LAST WEEK PROJECT
 	                                      
 
 This document describes the variables, the data, and any transformations or work that I performed to clean up the data
@@ -28,7 +28,7 @@ was obtained by calculating variables from the time and frequency domain.
 
 ###Attribute Information
 For each record in the dataset it is provided:
-.Point 1 Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+* Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 *  Triaxial Angular velocity from the gyroscope.
 *  A 561-feature vector with time and frequency domain variables.
 *  Its activity label.
