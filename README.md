@@ -1,4 +1,10 @@
-#Getting and Cleaning Data
+##Getting and Cleaning Data
+
+This repository consist the R code and documentation files for  "Getting and Cleaning data"
+course, available on coursera.
+
+The dataset being used is: Human Activity Recognition Using Smartphones, available by this 
+link:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 	This is the course project for the Getting and Cleaning Data Coursera course.
  	The R script, run_analysis.R, does the following:
